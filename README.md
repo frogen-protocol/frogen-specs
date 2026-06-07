@@ -9,7 +9,7 @@ Publication targets are estimates and may shift as specifications undergo review
 | Document | Status | Date | Description |
 |---|---|---|---|
 | [DynamicStaking Specification](DynamicStaking-Specification.md) | Published | May 30, 2026 | Staking mechanism, APR math, pool health |
-| [SmartVest Specification](SmartVest-Specification.md) | In drafting | Target: June 7, 2026 | Dynamic fee curve and redistribution |
+| [SmartVest Specification](SmartVest-Specification.md) | Published | June 7, 2026 | Dynamic fee curve and redistribution |
 | [Carbon Reversal Plan](Carbon-Reversal-Plan.md) | Planned | Target: June 15, 2026 | Carbon Vault mechanism, 10x offset math |
 | [GasPool Specification](GasPool-Specification.md) | Planned | Target: June 22, 2026 | Sponsored gas via meta-transactions |
 | [Economic Mechanism Addendum](Economic-Mechanism-Addendum.md) | Planned | Target: June 29, 2026 | Mathematical foundations |
